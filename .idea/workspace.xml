@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08789b5f-7c02-4b1a-b7f8-f38b5dd5d713" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/config/ModelMapperConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/domain/collection/GymClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/domain/dto/GymClassDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/domain/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/repository/IGymClassRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/router/GymClassRouter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/DeleteGymClassUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/GetAllGymClassesUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/GetGymCLassByIdUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/SaveGymClassUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/UpdateGymCLassUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/interfaces/DeleteGymClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/interfaces/SaveGymClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/classes/api/usecases/interfaces/UpdateGymClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/classes/api/usecases/DeleteGymClassUseCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/classes/api/usecases/GetAllGymClassesUseCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/classes/api/usecases/GetGymCLassByIdUseCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/classes/api/usecases/SaveGymClassUseCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/classes/api/usecases/UpdateGymCLassUseCaseTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NLMb0Da3xRsJ9eQMlef7UVE9IY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Documents/GitHub_NEW/RP Final/ClassAPI/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Documents\GitHub_NEW\RP Final\ClassAPI\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.classes.api.usecases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DeleteGymClassUseCaseTest.deleteUser">
+    <configuration name="DeleteGymClassUseCaseTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.classes.api.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.classes.api.usecases" />
+      <option name="MAIN_CLASS_NAME" value="org.classes.api.usecases.DeleteGymClassUseCaseTest" />
+      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetAllGymClassesUseCaseTest.getAllClasses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.classes.api.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.classes.api.usecases" />
+      <option name="MAIN_CLASS_NAME" value="org.classes.api.usecases.GetAllGymClassesUseCaseTest" />
+      <option name="METHOD_NAME" value="getAllClasses" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetGymCLassByIdUseCaseTest.getClassByID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.classes.api.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.classes.api.usecases" />
+      <option name="MAIN_CLASS_NAME" value="org.classes.api.usecases.GetGymCLassByIdUseCaseTest" />
+      <option name="METHOD_NAME" value="getClassByID" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveGymClassUseCaseTest.saveClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.classes.api.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.classes.api.usecases" />
+      <option name="MAIN_CLASS_NAME" value="org.classes.api.usecases.SaveGymClassUseCaseTest" />
+      <option name="METHOD_NAME" value="saveClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateGymCLassUseCaseTest.updateClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClassAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.classes.api.usecases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.classes.api.usecases" />
+      <option name="MAIN_CLASS_NAME" value="org.classes.api.usecases.UpdateGymCLassUseCaseTest" />
+      <option name="METHOD_NAME" value="updateClass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DeleteGymClassUseCaseTest.deleteUser" />
+        <item itemvalue="JUnit.UpdateGymCLassUseCaseTest.updateClass" />
+        <item itemvalue="JUnit.SaveGymClassUseCaseTest.saveClass" />
+        <item itemvalue="JUnit.GetGymCLassByIdUseCaseTest.getClassByID" />
+        <item itemvalue="JUnit.GetAllGymClassesUseCaseTest.getAllClasses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08789b5f-7c02-4b1a-b7f8-f38b5dd5d713" name="Changes" comment="" />
+      <created>1679438978907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679438978907</updated>
+    </task>
+    <servers />
+  </component>
+</project>
