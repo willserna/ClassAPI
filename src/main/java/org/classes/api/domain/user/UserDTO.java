@@ -1,12 +1,9 @@
 package org.classes.api.domain.user;
 
 import lombok.Data;
-import org.classes.api.domain.dto.GymClassDTO;
-
-import java.util.List;
 
 @Data
-public class User {
+public class UserDTO {
 
     private String id;
 
